@@ -1,7 +1,6 @@
 #WRITE A PROGRAM TO FIND LCM OF TWO NUMBERS.
 from math import gcd
 
-
 def lcm(a, b):
     return (a * b) // gcd(a, b)     
 num1 = int(input("Enter the first number: "))

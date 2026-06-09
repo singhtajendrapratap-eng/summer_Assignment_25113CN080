@@ -17,4 +17,4 @@ if result != -1:
     print(f"The largest prime factor of {number} is: {result}")
 else: 
     print(f"There are no prime factors for {number}.")
-
+4
